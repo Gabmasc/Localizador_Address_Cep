@@ -37,7 +37,7 @@ A API suporta as seguintes operações:
 | **DELETE** | `/client/deleteClient/{id}` | Remove um client   |
 
 
-### 🔎 Exemplo de Requisição `POST` para Criar um Livro
+### 🔎 Exemplo de Requisição `POST` para Criar um CEP
 
 Requisição:
 ```json
